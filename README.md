@@ -8,4 +8,4 @@ In oreder to execute the client - server project :
 5. Inside the bin folder write to the terminal --> ./StompWCIClient 172.28.134.170 7777
 6. Now the client and the server are connected and you can start the commuincaite between them
  while using the stomp comand : login ,subscribe...
-ים'
+
